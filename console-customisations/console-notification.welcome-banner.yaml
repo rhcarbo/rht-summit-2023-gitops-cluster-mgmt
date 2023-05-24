@@ -6,7 +6,7 @@ spec:
   backgroundColor: '#EE0000'
   color: '#fff'
   link:
-    href: https://www.redhat.com/en/summit
-    text: (Event Information)
+    href: https://evanshortiss.com/rht-summit-2023-lab-guide
+    text: this is the lab guide
   location: BannerTop
-  text: Welcome to Red Hat Summit 2023!
+  text: Welcome to Red Hat Summit 2023! rht-summit-2023-lab-guide
